@@ -1,0 +1,1 @@
+Transaction no.    User        Date          Payment         Items purchased               
